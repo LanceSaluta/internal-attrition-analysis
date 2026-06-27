@@ -1,7 +1,7 @@
-# Global Compensation & Workforce Attrition Analysis
+# Internal Compensation & Workforce Attrition Analysis
 
 ## Project Overview
-This project analyzes regional compensation structures and workforce metrics across a global dataset of 15,000 employees. The goal was to identify different factors contributing to attrition.
+This project analyzes regional compensation structures and workforce metrics across a global dataset of 15,000 employees. The goal was to identify different factors contributing to attrition. The dataset is sourced from Kaggle.com
 
 ## Live Interactive Dashboard
 You can view and interact with the full, live dashboard here: 
