@@ -15,7 +15,7 @@ Below is a snapshot of the primary analytics interface built for HR stakeholders
 ## Key Business Insights
 * **Key attrition driver:** Identified that the highest driver for attrition are low salaries.
 * **Stagnation:** Employees who had no upward mobility in their roles were also at risk of leaving.
-* **High-performer flight risks:** Discovered was that the high performers in the company were also a flight risk
+* **High-performer flight risks:** Discovered that the high performers in the company were also a flight risk
 
 ## Data Methodology & Tools
 * **Excel / Power Query:** Used for end-to-end data extraction, transformation, and structural schema validation (ETL).
